@@ -1,2 +1,2 @@
 # JavaMatriz
-Exercícios de java 
+Exemplos/Exercícios de java sobre Matriz 
